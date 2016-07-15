@@ -1,8 +1,7 @@
 forge 'forge.puppetlabs.com'
 
-#Forge modules for production environment
+# staging environment modules
 
-mod 'puppetlabs/stdlib' 
-mod 'puppetlabs/concat' 
+mod 'puppetlabs/stdlib', '4.1.0'
+mod 'puppetlabs/concat', '1.1.0'
 mod 'puppetlabs/nginx'
-
