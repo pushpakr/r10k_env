@@ -7,5 +7,6 @@ node default {
 node puppet.india.xoriantcorp.com {
 }
 node "mylab.xoriantlinux.net" {
-	include host_website
+#	include host_website
+include roles::webhost
 }
