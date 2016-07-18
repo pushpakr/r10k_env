@@ -14,4 +14,4 @@ mod 'profiles',
 :git => 'https://github.com/pushpakr/profiles'
 
 mod 'roles',
-:git => 'https://github.com/pushpakr/profiles'
+:git => 'https://github.com/pushpakr/roles'
