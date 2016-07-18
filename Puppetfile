@@ -11,7 +11,7 @@ mod 'host_website',
 :git => 'https://github.com/pushpakr/host_website'
 
 mod 'profiles',
-:git => 'https://github/pushpakr/profiles'
+:git => 'https://github.com/pushpakr/profiles'
 
 mod 'roles',
-:git => 'https://github/pushpakr/profiles'
+:git => 'https://github.com/pushpakr/profiles'
