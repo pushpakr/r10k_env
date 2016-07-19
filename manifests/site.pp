@@ -9,5 +9,4 @@ node puppet.india.xoriantcorp.com {
 node "mylab.xoriantlinux.net" {
 #	include host_website
 	include roles::webhost
-#hiera_include("apache")
 }
