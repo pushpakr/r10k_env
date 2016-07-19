@@ -1,6 +1,6 @@
 ---
-profiles::webhost::apache::port: 8050
-profiles::webhost::apache::docroot: /var/www
-profiles::webhost::apache::servername: mylab.xoriantlinux.net
-profiles::webhost::apache::docroot_owner: root
-profiles::webhost::apache::docroot_group: root
+profiles::webhost::port: 8050
+profiles::webhost::docroot: /var/www
+profiles::webhost::servername: mylab.xoriantlinux.net
+profiles::webhost::docroot_owner: root
+profiles::webhost::docroot_group: root
